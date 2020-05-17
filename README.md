@@ -21,3 +21,7 @@ The program will output three files:
 You might need to retry to start the programm several times until it extracts
 the files successfully. You also most likely need to cleanup the opcode.yaml
 so that you only have the opcodes with the prefix "S_" and "C_".
+
+## Licence
+
+MIT
